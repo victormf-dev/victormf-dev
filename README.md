@@ -73,12 +73,12 @@ I'm a Systems Analysis and Development student at [PUC Minas](https://www.pucmin
         alt="Victor's GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://my-github-readme-stats-bice-six.vercel.app/api?username=victormf-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true" 
+        src="https://my-github-readme-stats-bice-six.vercel.app/api?username=victormf-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1" 
     />
     <img 
         align="left" 
         alt="Top Languages" 
         height="200" 
-        src="https://my-github-readme-stats-bice-six.vercel.app/api/top-langs/?username=victormf-dev&theme=default&layout=compact&custom_title=Technologies&langs_count=9&count_private=true" 
+        src="https://my-github-readme-stats-bice-six.vercel.app/api/top-langs/?username=victormf-dev&theme=default&layout=compact&custom_title=Technologies&langs_count=9&count_private=true&cache_seconds=1" 
     />
 </p>
